@@ -9,7 +9,8 @@
 #
 # 3) zaleca się pobranie sterowników „VirtIO” produkowanych przez Red Hat. 
 #    Te sterowniki są instalowane w systemie Windows i znacznie poprawiają 
-#    wydajność sieci i dysków systemu Windows    
+#    wydajność sieci i dysków systemu Windows 
+#    (https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/archive-virtio/virtio-win-0.1.171-1/) 
 #
 # 4) W celu dostępu przez GUI użyj `virt-viewer` lub `virt-manager`
 #
