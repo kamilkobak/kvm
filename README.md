@@ -1,4 +1,5 @@
-# KVM
+# Windows 10 on KVM
+
 1) Instalujemy: sudo apt-get install qemu-kvm libvirt-bin bridge-utils virt-manager qemu virt-viewer spice-vdagent
 
 2) W BIOS wlączyć virtualizację: Virtualization Technology (VT)
